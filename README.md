@@ -6,9 +6,7 @@ It is built using [Next.js](https://nextjs.org), styled with Tailwind CSS, and d
 
 ---
 
-## 🌐 Live Website
 
-The site will be available at: [https://wrrg-iitr.vercel.app](https://wrrg-iitr.vercel.app) *(after deployment)*
 
 ---
 
